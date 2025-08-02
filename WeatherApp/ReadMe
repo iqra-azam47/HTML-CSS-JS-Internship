@@ -1,0 +1,39 @@
+# 🌦️ Weather Checker
+
+This is a simple web page built using **HTML, CSS, and JavaScript** that shows the current weather for any city you enter.
+You can also check your current location's weather in real time.
+
+## 📌 Features
+
+- ✅ Get weather by city name
+- ✅ Detect your current location
+- ✅ Show temperature in Celsius
+- ✅ Display humidity
+- ✅ Show a weather icon based on condition
+- ✅ Change background image based on weather
+- ✅ Error message for invalid city input
+
+## 🧪 Technologies Used
+
+- HTML  
+- CSS 
+- JavaScript 
+- OpenWeatherMap API  
+
+## 🔧 How to Run
+
+1. Clone this repository or download the ZIP  
+2. Open `index.html` in your browser  
+3. Type a city name and click **"Get Weather"**  
+4. Or click **"Use My Location"** to get current weather
+
+## 🌐 Live Demo
+
+👉 [Click here to view](https://weatherchecker-iqraproject.netlify.app)
+
+
+🙋‍♀️ Created By
+**Iqra Azam**  
+Computer Science Student | Web Developer Intern
+
+---
