@@ -18,7 +18,7 @@ You can also check your current location's weather in real time.
 - HTML  
 - CSS 
 - JavaScript 
-- OpenWeatherMap API  
+- OpenWeatherMap API  https://home.openweathermap.org/api_keys
 
 ## 🔧 How to Run
 
@@ -31,6 +31,8 @@ You can also check your current location's weather in real time.
 
 👉 [Click here to view the app](https://weatherchecker-iqraproject.netlify.app/)
 
+
+## OpenWeatherMap API  https://home.openweathermap.org/api_keys
 
 🙋‍♀️ Created By
 **Iqra Azam**  
