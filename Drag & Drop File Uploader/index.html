@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drag and Drop File Uploader</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2 id="heading">Drag and Drop File Uploader</h2>
+    
+    <div class="main-content">
+    <div class="description">
+        <h3 id="welcome">Welcome to Our Smart File Uploader!</h3>
+        <p>This project allows you to easily upload and preview your files directly in the browser.
+        You can drag and drop your files into the upload area or simply click to browse from your device.
+        It’s a fast, simple, and user-friendly way to manage your uploads.</p>
+
+    </div>
+    
+    
+      
+    <div class="uploader-container">
+        <div id="drop-area" class="drop-area">
+            <p>Drag & Drop your image here or <span id="file-link">click to browse</span></p>
+            <input type="file" id="file-input" hidden accept="image/jpeg, image/png, image/gif">
+        </div>
+        <div id="preview-container" class="preview-container"></div>
+        <div id="progress-container" class="progress-container">
+            <div id="progress-bar" class="progress-bar"></div>
+        </div>
+        <div id="error-message" class="error-message"></div>
+    </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
